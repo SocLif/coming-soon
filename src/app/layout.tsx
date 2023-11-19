@@ -10,9 +10,9 @@ const rem = REM({
 
 export const metadata: Metadata = {
   title:
-    "sectID.com || Unlock Revolutionary Connections with sectID - Your Hub for Seamless Social Networking",
+    "SocLif.com || Unlock Revolutionary Connections with SocLif - Your Hub for Seamless Social Networking",
   description:
-    "Discover sectID, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join sectID for boundless possibilities in the world of social media interactions.",
+    "Discover SocLif, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join SocLif for boundless possibilities in the world of social media interactions.",
 };
 
 export default function RootLayout({

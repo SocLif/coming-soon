@@ -1,6 +1,6 @@
-## sectID.com - COMING SOON
+## SocLif.com - COMING SOON
 
-Discover sectID, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join sectID for boundless possibilities in the world of social media interactions.
+Discover SocLif, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join SocLif for boundless possibilities in the world of social media interactions.
 
 ## Getting Started
 

@@ -3,14 +3,14 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between px-4 py-8 max-w-4xl min-h-screen h-full m-auto align-middle select-none">
       <div className="flex justify-center align-middle items-center flex-col gap-12 m-auto">
         <h1 className="m-4 font-mono text-7xl md:text-9xl p-3 md:p-4 rounded-lg my-bg text-black">
-          sectID
+          SocLif
         </h1>
         <div className="flex justify-center align-middle items-center flex-col gap-5">
           <h3 className="md:text-5xl text-2xl border-b-2 border-slate-500 p-4 border-spacing-96">
             WE&apos;RE COMING SOON
           </h3>
           <p className="text-lg text-center">
-            Welcome to sectID.com, your future hub for revolutionary connections
+            Welcome to SocLif.com, your future hub for revolutionary connections
             in the world of social media. We&apos;re in the midst of crafting a
             space where influencers, businesses, and users come together to
             redefine social interactions.
@@ -26,7 +26,7 @@ export default function Home() {
               </li>
               <li>
                 🚀 Seamless Networking: Whether you're an influencer, a
-                business, or a curious user, sectID.com is where seamless
+                business, or a curious user, SocLif.com is where seamless
                 networking meets limitless possibilities.
               </li>
               <li>
@@ -40,7 +40,7 @@ export default function Home() {
           <ul>
             <li>
               📅 Launch Date: The countdown has begun. Be prepared to witness
-              the unveiling of sectID.com on our launch day.
+              the unveiling of SocLif.com on our launch day.
             </li>
             <li>
               💌 Exclusive Updates: Sign up now to receive exclusive updates,
@@ -56,14 +56,14 @@ export default function Home() {
             {/* <h5>Connect with Us:</h5>
             <p>
               📧 Contact Us: Have questions or eager to collaborate? Reach out
-              to us at info@sectID.com.
+              to us at info@SocLif.com.
             </p> */}
             <p>
-              Thank you for your anticipation! sectID.com is on the brink of
+              Thank you for your anticipation! SocLif.com is on the brink of
               transforming your social experience.
             </p>
             <p>See you at the launch!</p>
-            <p>- The sectID.com Team</p>
+            <p>- The SocLif.com Team</p>
           </div>
         </div>
       </div>
