@@ -1,6 +1,6 @@
-## SocLif.com - COMING SOON
+## soclif.com - COMING SOON
 
-Discover SocLif, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join SocLif for boundless possibilities in the world of social media interactions.
+Discover soclif, where influencers, businesses, and users converge for a revolutionary social networking experience. Seamlessly connect, collaborate, and redefine your online presence. Join soclif for boundless possibilities in the world of social media interactions.
 
 ## Getting Started
 
