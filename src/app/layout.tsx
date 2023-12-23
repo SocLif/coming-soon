@@ -1,12 +1,7 @@
 import type { Metadata } from "next";
-import { REM } from "next/font/google";
-import "./globals.css";
-
-const rem = REM({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-rem",
-});
+import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeModeToggle } from "@/components/theme-mode-toggle";
+import "../globals.css";
 
 export const metadata: Metadata = {
   title:
@@ -21,8 +16,24 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={rem.variable}>
-      <body>{children}</body>
+    <html lang="en">
+      <body>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <main className="container-min-h-fill flex flex-col py-10 px-4 gap-10 justify-center align-middle items-center">
+            <div className="p-2 w-auto absolute top-0 right-0">
+              <ThemeModeToggle />
+            </div>
+            <section className="flex justify-center align-middle items-center">
+              {children}
+            </section>
+          </main>
+        </ThemeProvider>
+      </body>
     </html>
   );
 }
