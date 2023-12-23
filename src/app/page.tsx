@@ -1,5 +1,5 @@
 import BrandSloganStack from "@/components/brand-slogan-stack";
-import { Button } from "@/components/ui/button";
+import ExploreButton from "@/components/explore-button";
 import Link from "next/link";
 
 export default function Home() {
@@ -16,8 +16,7 @@ export default function Home() {
         platform. Sign up now to amplify your social presence, connect with
         influence&apos;s, and embark on a journey of endless opportunities
       </p>
-
-      <Button variant={"destructive"}>Explore Beta Version</Button>
+      <ExploreButton />
 
       <div className="flex justify-center align-middle items-center flex-col gap-2 bg-secondary text-secondary-foreground px-4 py-6 max-w-md md:max-w-3xl ">
         <h3 className="md:text-3xl text-2xl border-b-2 border-primary m-2 border-spacing-96 text-primary">
